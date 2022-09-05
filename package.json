@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AMBoulchouk/patron-mvc/issues"
   },
-  "homepage": "https://github.com/AMBoulchouk/patron-mvc#readme"
+  "homepage": "https://github.com/AMBoulchouk/patron-mvc#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
